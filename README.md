@@ -10,7 +10,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # 2048
-[Click Here](https://plebmaster.github.io/school/)
+[I'm an inline-style link](https://plebmaster.github.io/school/)
+
 ## Header 2
 ### Header 3
 
