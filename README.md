@@ -4,7 +4,7 @@ These are a bunch of links that take you to games that are normally blocked.
 ### Play 2048
 [Click Here](https://plebmaster.github.io/school/)
 ### Cookie Clicker
-[Click Here](https://plebmaster.github.io/cookie-clicer/)
+[Click Here](https://plebmaster.github.io/cookie-clicker/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
