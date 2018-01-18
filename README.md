@@ -1,8 +1,10 @@
 ## Welcome to Unblocked Stuff
 
 These are a bunch of links that take you to games that are normally blocked.
-[I'm an inline-style link](https://plebmaster.github.io/school/)
-### Markdown
+### Play 2048
+[Click Here](https://plebmaster.github.io/school/)
+### Cookie Clicker
+[Click Here](https://plebmaster.github.io/cookie-clicer/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -10,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # 2048
-[I'm an inline-style link](https://plebmaster.github.io/school/)
+
 
 ## Header 2
 ### Header 3
