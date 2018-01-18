@@ -1,7 +1,7 @@
 ## Welcome to Unblocked Stuff
 
 These are a bunch of links that take you to games that are normally blocked.
-
+[I'm an inline-style link](https://plebmaster.github.io/school/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
